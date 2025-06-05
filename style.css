@@ -1,6 +1,57 @@
 .container{
-    border: 3px;
-    margin-left: 50px;
+    border: 3px solid green;
+    margin-left: 300px;
+    width: 600px;
+    padding-left:50px;
+    height: 1100px;
     
     
+}
+#mustard{
+    width: 90px;
+    height: 80px;
+    border-radius: 10px;
+}
+#kale{
+    width: 90px;
+    height: 80px;
+    border-radius: 10px;
+}
+#tomato{
+   width: 90px;
+    height: 80px;
+    border-radius: 10px;  
+}
+#onion{
+    width: 90px;
+    height: 80px;
+    border-radius: 10px;  
+}
+#water{
+    width: 90px;
+    height: 80px;
+    border-radius: 10px;  
+}
+#pineaple{
+    width: 90px;
+    height: 80px;
+    border-radius: 10px;  
+}
+#banana{
+    width: 90px;
+    height: 80px;
+    border-radius: 10px;  
+}
+#mango{
+    width: 90px;
+    height: 80px;
+    border-radius: 10px;  
+}
+#mix{
+    position: relative;
+    left: 150px;
+    width: 450px;
+    height: 980px;
+    
+    bottom:1000px;
 }

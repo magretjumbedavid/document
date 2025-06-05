@@ -27,3 +27,6 @@ upper.style.textTransform="uppercase";
 
 const ase=document.getElementById("ase");
 ase.style.textTransform="upperCase";
+
+// adding images
+const img = document.createElement('img');
